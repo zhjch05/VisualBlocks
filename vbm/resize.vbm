@@ -1,0 +1,6 @@
+for i=1 to af.nodes.count
+af.nodes(i).left=af.nodes(i).left*2
+af.nodes(i).width=af.nodes(i).width*2
+af.nodes(i).height=af.nodes(i).height*2
+af.nodes(i).top=af.nodes(i).top*2
+next

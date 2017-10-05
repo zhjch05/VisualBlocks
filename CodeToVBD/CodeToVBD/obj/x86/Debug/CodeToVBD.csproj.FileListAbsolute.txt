@@ -1,0 +1,18 @@
+h:\users\锦程\documents\visual studio 2010\Projects\CodeToVBD\CodeToVBD\bin\Debug\CodeToVBD.exe
+h:\users\锦程\documents\visual studio 2010\Projects\CodeToVBD\CodeToVBD\bin\Debug\CodeToVBD.pdb
+h:\users\锦程\documents\visual studio 2010\Projects\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.Form1.resources
+h:\users\锦程\documents\visual studio 2010\Projects\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.Properties.Resources.resources
+h:\users\锦程\documents\visual studio 2010\Projects\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.csproj.GenerateResource.Cache
+h:\users\锦程\documents\visual studio 2010\Projects\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.exe
+h:\users\锦程\documents\visual studio 2010\Projects\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.pdb
+H:\Users\锦程\Documents\Visual Studio 2010\Projects\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.csprojResolveAssemblyReference.cache
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.exe
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.pdb
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\bin\Debug\CodeToVBD.exe
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\bin\Debug\CodeToVBD.pdb
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.csprojResolveAssemblyReference.cache
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.Form1.resources
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.Properties.Resources.resources
+C:\Users\jinzihao\Desktop\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.csproj.GenerateResource.Cache
+C:\Users\jinzihao\Desktop\Demo\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.exe
+C:\Users\jinzihao\Desktop\Demo\CodeToVBD\CodeToVBD\obj\x86\Debug\CodeToVBD.pdb

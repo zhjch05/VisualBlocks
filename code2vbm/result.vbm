@@ -1,0 +1,99 @@
+af.nodes.add(1000,2600,2400,1200).shape = 1
+af.nodes(1).text ="#include<iostream>"& Chr(13) & Chr(10) &"using namespace std;"
+af.nodes(1).gradient =true
+af.nodes(1).fillcolor=14745591
+af.nodes(1).gradientcolor=8454112
+af.nodes(1).drawcolor=49296
+af.nodes(1).drawstyle = 2
+af.nodes.add(3900,2600,2400,1200).shape = 8
+af.nodes(2).text ="int main()"
+af.nodes(2).gradient =true
+af.nodes(2).fillcolor=16771552
+af.nodes(2).gradientcolor=16761024
+af.nodes(2).drawcolor=16765120
+af.nodes.add(3900,4200,2400,1200).shape = 1
+af.nodes(3).text ="int a;"
+af.nodes(3).gradient =true
+af.nodes(3).fillcolor=16777152
+af.nodes(3).gradientcolor=12648192
+af.nodes(3).drawcolor=16760832
+af.nodes.add(3900,5800,2400,1200).shape = 53
+af.nodes(4).text ="cin>>a;"
+af.nodes(4).gradient =true
+af.nodes(4).fillcolor=16761087
+af.nodes(4).gradientcolor=14713087
+af.nodes(4).drawcolor=16744672
+af.nodes.add(3900,7400,2400,1200).shape = 3
+af.nodes(5).text ="a==1"
+af.nodes(5).gradient =true
+af.nodes(5).fillcolor=14743551
+af.nodes(5).gradientcolor=57599
+af.nodes(5).drawcolor=4254207
+af.nodes.add(3900,9000,2400,1200).shape = 1
+af.nodes(6).text ="a=0;"
+af.nodes(6).gradient =true
+af.nodes(6).fillcolor=16777152
+af.nodes(6).gradientcolor=12648192
+af.nodes(6).drawcolor=16760832
+af.nodes.add(3900,10600,2400,1200).shape = 1
+af.nodes(7).text ="int x = 0;"
+af.nodes(7).gradient =true
+af.nodes(7).fillcolor=16777152
+af.nodes(7).gradientcolor=12648192
+af.nodes(7).drawcolor=16760832
+af.nodes.add(3900,12200,2400,1200).shape = 1
+af.nodes(8).text ="return 0;"
+af.nodes(8).gradient =true
+af.nodes(8).fillcolor=16777152
+af.nodes(8).gradientcolor=12648192
+af.nodes(8).drawcolor=16760832
+af.nodes.add(6800,9000,2400,1200).shape = 3
+af.nodes(9).text ="x==0"
+af.nodes(9).gradient =true
+af.nodes(9).fillcolor=14743551
+af.nodes(9).gradientcolor=57599
+af.nodes(9).drawcolor=4254207
+af.nodes.add(6800,10600,2400,1200).shape = 53
+af.nodes(10).text ="cout<<a;"
+af.nodes(10).gradient =true
+af.nodes(10).fillcolor=16761087
+af.nodes(10).gradientcolor=14713087
+af.nodes(10).drawcolor=16744672
+af.nodes.add(9700,10600,2400,1200).shape = 3
+af.nodes(11).text ="y==0"
+af.nodes(11).gradient =true
+af.nodes(11).fillcolor=14743551
+af.nodes(11).gradientcolor=57599
+af.nodes(11).drawcolor=4254207
+af.nodes.add(9700,12200,2400,1200).shape = 1
+af.nodes(12).text ="a=0;"
+af.nodes(12).gradient =true
+af.nodes(12).fillcolor=16777152
+af.nodes(12).gradientcolor=12648192
+af.nodes(12).drawcolor=16760832
+af.nodes.add(12600,12200,2400,1200).shape = 1
+af.nodes(13).text ="xx=0;"
+af.nodes(13).gradient =true
+af.nodes(13).fillcolor=16777152
+af.nodes(13).gradientcolor=12648192
+af.nodes(13).drawcolor=16760832
+af.addlink af.nodes(2),af.nodes(3)
+af.addlink af.nodes(3),af.nodes(4)
+af.addlink af.nodes(4),af.nodes(5)
+af.addlink af.nodes(5),af.nodes(6)
+af.nodes(5).links(af.nodes(5).links.count).text = "Y"
+af.addlink af.nodes(5),af.nodes(9)
+af.nodes(5).links(af.nodes(5).links.count).text = "N"
+af.addlink af.nodes(6),af.nodes(7)
+af.addlink af.nodes(7),af.nodes(8)
+af.addlink af.nodes(9),af.nodes(10)
+af.nodes(9).links(af.nodes(9).links.count).text = "Y"
+af.addlink af.nodes(9),af.nodes(11)
+af.nodes(9).links(af.nodes(9).links.count).text = "N"
+af.addlink af.nodes(10),af.nodes(8)
+af.addlink af.nodes(11),af.nodes(12)
+af.nodes(11).links(af.nodes(11).links.count).text = "Y"
+af.addlink af.nodes(11),af.nodes(13)
+af.nodes(11).links(af.nodes(11).links.count).text = "N"
+af.addlink af.nodes(12),af.nodes(8)
+af.addlink af.nodes(13),af.nodes(8)
