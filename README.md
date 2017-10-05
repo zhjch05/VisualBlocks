@@ -8,6 +8,8 @@ Zihao Jin @jinzihao now as @jzh14 and I, did this project in 2013 in high school
 
 So the demo ppt was in Chinese.
 
+Main converter program is [/CodeToVBD/CodeToVBD/Form1.cs](./CodeToVBD/CodeToVBD/Form1.cs)
+
 More Demos in [code2vbm folder](./code2vbm/)
 
 Demo of c++ to flowchart in VisualBlock's GUI
